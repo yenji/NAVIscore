@@ -1,5 +1,10 @@
 # NAVIscore
-Input test Microsoft Dynamics NAV for Lucerne University of Applied Siences and Arts
+Input test Microsoft Dynamics NAV for Lucerne University of Applied Sciences and Arts
+Erstellt 15.02 - 08.03.2012 von der Projektgruppe NAVIscore der University of Applied Sciences Augsburg
+
+NaviScore.class beinhaltet main
+MySQL Datenbank mit Lösungen wird verwendet
+Externe libraries: hsqldb, sqljdbc4
 
 Der Student gibt zu Beginn den Namen seiner PC AG in die Konsole ein,
 aufgefordert wird er durch "Bitte ihre PC AG eingeben:" überprüft wird die
